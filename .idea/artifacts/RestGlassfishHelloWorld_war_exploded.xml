@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RestGlassfishHelloWorld:war exploded">
+    <output-path>$PROJECT_DIR$/target/RestGlassfishHelloWorld-1.0.1-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>RestGlassfishHelloWorld</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RestGlassfishHelloWorld" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.looseboxes:rate-limiter-javaee:0.0.903-DRAFT" />
+          <element id="library" level="project" name="Maven: com.looseboxes:rate-limiter:0.0.4" />
+          <element id="library" level="project" name="Maven: javax.cache:cache-api:1.1.1" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.6" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.32" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/RestGlassfishHelloWorld-1.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="RestGlassfishHelloWorld/web/Web" />
+    </root>
+  </artifact>
+</component>

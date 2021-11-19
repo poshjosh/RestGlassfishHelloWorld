@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.looseboxes:rate-limiter-javaee:0.0.903-DRAFT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/looseboxes/rate-limiter-javaee/0.0.903-DRAFT/rate-limiter-javaee-0.0.903-DRAFT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/looseboxes/rate-limiter-javaee/0.0.903-DRAFT/rate-limiter-javaee-0.0.903-DRAFT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/looseboxes/rate-limiter-javaee/0.0.903-DRAFT/rate-limiter-javaee-0.0.903-DRAFT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
