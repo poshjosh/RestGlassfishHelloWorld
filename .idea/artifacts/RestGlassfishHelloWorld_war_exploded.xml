@@ -14,7 +14,7 @@
           <element id="module-output" name="RestGlassfishHelloWorld" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: com.looseboxes:rate-limiter-javaee:0.0.903-DRAFT" />
+          <element id="library" level="project" name="Maven: com.looseboxes:rate-limiter-javaee:0.0.904-DRAFT" />
           <element id="library" level="project" name="Maven: com.looseboxes:rate-limiter:0.0.4" />
           <element id="library" level="project" name="Maven: javax.cache:cache-api:1.1.1" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.6" />

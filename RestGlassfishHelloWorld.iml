@@ -25,7 +25,7 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: com.looseboxes:rate-limiter-javaee:0.0.903-DRAFT" level="project" />
+    <orderEntry type="library" name="Maven: com.looseboxes:rate-limiter-javaee:0.0.904-DRAFT" level="project" />
     <orderEntry type="library" name="Maven: com.looseboxes:rate-limiter:0.0.4" level="project" />
     <orderEntry type="library" name="Maven: javax.cache:cache-api:1.1.1" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.6" level="project" />

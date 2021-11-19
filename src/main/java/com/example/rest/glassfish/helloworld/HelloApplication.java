@@ -1,8 +1,7 @@
-package com.example.RestGlassfishHelloWorld;
+package com.example.rest.glassfish.helloworld;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
-import java.time.LocalDateTime;
 
 @ApplicationPath(HelloApplication.APPLICATION_PATH)
 public class HelloApplication extends Application {
